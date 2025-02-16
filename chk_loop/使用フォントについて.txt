@@ -1,0 +1,6 @@
+本プラグインは
+「PixelMplus」(https://itouhiro.hatenablog.com/entry/20130602/font)
+を使用しています。
+
+■使用フォントのライセンス表記(敬称略)
+(C) 2002-2013 M+ FONTS PROJECT

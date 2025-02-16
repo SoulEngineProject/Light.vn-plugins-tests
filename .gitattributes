@@ -1,0 +1,8 @@
+# Set the default behaviour: auto update lines to local on checkout and auto convert on push
+* text=auto
+
+# All that shouldn't be modified
+*.ico binary
+*.png binary
+*.ttf binary
+*.otf binary
